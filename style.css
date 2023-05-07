@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+  	background-color: #245953;
+	text-align: center;
+}
+
+p{
+	font-size: 750%;
+	font-family: 'Sacramento', cursive;
+	margin: auto;
+	margin-top: 5%;
+	position: relative;
+}
+
+hr {
+	border: dotted 15px black;
+	border-bottom: none;
+	width: 10%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+img{
+	margin-top: 15%;
+	margin-inline: 2.5%;
+}
